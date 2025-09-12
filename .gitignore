@@ -1,0 +1,4 @@
+# Ignore build files
+gitpush
+gitpush.hi
+gitpush.o
